@@ -1,11 +1,19 @@
-Hi, my name is Kirill 👋 
+### Hi, my name is Kirill 👋 
 
-I'm currently a student of BMSTU 👨‍🎓 and looking for a job in Data Science field 
+### I'm currently a student of BMSTU 👨‍🎓 and looking for a job in Data Science field 
+
+***
 
 # My contaсts 
-- email: kfridochkin@mail.ru
-- +7995205182
+### - email: kfridochkin@mail.ru
+### - +7995205182
+
+***
 
 # My messengers
-- [Telegram](https://t.me/stepfather_11)
-- [ВКонтакте](https://t.me/stepfather_11)
+### - [Telegram](https://t.me/stepfather_11)
+### - [ВКонтакте](https://t.me/stepfather_11)
+
+***
+
+### I'm open to any suggestions. Difficulties don't scare me) 
